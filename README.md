@@ -1,2 +1,0 @@
-# PythonEducation
-Python Education
