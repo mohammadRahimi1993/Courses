@@ -19,3 +19,24 @@ Welcome to the Python Fundamentals repository. This course was prepared in 2022 
 **Part 4:** We explore Python's core data types and discuss why indentation is vital for writing clean, structured, and error-free code.
 </br>
 ([Watch Part 4](https://www.aparat.com/v/mks0v17))
+
+**Part 11:** Discover how to manipulate and modify lists efficiently, including techniques for adding, removing, and sorting elements within your data collections.
+[Watch Part 11](https://www.aparat.com/v/V9LEI)
+
+**Part 12:** Master control flow in Python by understanding conditional statements, allowing your programs to make decisions based on specific conditions.
+[Watch Part 12](https://www.aparat.com/v/a250id2)
+
+**Part 13:** Learn the fundamentals of loops in Python, starting with an introduction to the `for` loop to automate repetitive tasks efficiently.
+[Watch Part 13](https://www.aparat.com/v/h529485)
+
+**Part 14:** Continue mastering loops by solving practical exercises with the 'for' loop to reinforce your understanding and coding skills.
+[Watch Part 14](https://www.aparat.com/v/yZu8A).
+
+**Part 15:** Start learning about the while loop in Python, an essential tool for creating loops based on specific conditions.
+[Watch Part 15](https://www.aparat.com/dashboard/myvideos).
+
+**Part 16:** Strengthen your programming logic by solving practical exercises with the while loop and mastering condition-based repetition.
+[Watch Part 16](https://www.aparat.com/dashboard/videostat/k754154).
+
+**Part 17:** Get introduced to tuples in Python, an immutable and efficient data structure for storing ordered collections of items.
+[Watch Part 17](https://www.aparat.com/v/j35423q).
