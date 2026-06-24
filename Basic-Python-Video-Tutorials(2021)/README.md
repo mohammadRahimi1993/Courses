@@ -3,8 +3,7 @@
 Welcome to the Python Fundamentals repository. This course was prepared in 2022 by Mohammad Rahimi, a PhD candidate at the University of Isfahan, Iran, taking you from a complete beginner to an intermediate level. This course is highly recommended for all students and learners interested in starting their journey with Python. 
 </p>
 
-## 📚 Curriculum
-## Phase 1: The Basics
+## 📚 Phase 1: The Basics
 **Part 1:** This section introduces Python and guides you through setting up the essential tools needed to start coding with confidence. 
 </br>
 ([Watch Part 1](https://www.aparat.com/v/yxx41c5))
