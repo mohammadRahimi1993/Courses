@@ -5,8 +5,8 @@ Welcome to the **Python Fundamentals** repository. This course was prepared in 2
 ## 📚 Curriculum
 ## Phase 1: The Basics
 
-- [Part 1: Introduction & Environment Setup]
-- [Link Part 1: https://www.aparat.com/v/yxx41c5]
+Part 1: In this section, we cover the basics of Python and guide you through installing the necessary tools to start coding
+comfortably. (Part 1: https://www.aparat.com/v/yxx41c5)
 
 - [Part 2: Installation and Setup]
 - [Link Part 2: https://www.aparat.com/v/upe6ehj]
