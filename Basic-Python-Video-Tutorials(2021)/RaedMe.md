@@ -1,9 +1,9 @@
 
-### 🐍 Python Fundamentals: The Complete Path
+## 🐍 Python Fundamentals: The Complete Path
 Welcome to the **Python Fundamentals** repository. This course takes you through 5 structured parts, guiding you from a complete beginner to an intermediate level.
 
 ---
-### 📚 Curriculum
+## 📚 Curriculum
 ## Phase 1: The Basics
 
 - [Part 1: Introduction & Environment Setup]
