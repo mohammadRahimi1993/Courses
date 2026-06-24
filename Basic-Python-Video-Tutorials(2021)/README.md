@@ -38,11 +38,11 @@ Welcome to the Python Fundamentals repository. This course was prepared in 2022 
 
 **Part 15:** Start learning about the while loop in Python, an essential tool for creating loops based on specific conditions.
 </br>
-[Watch Part 15](https://www.aparat.com/dashboard/myvideos).
+[Watch Part 15](https://www.aparat.com/v/b66q2nk).
 
 **Part 16:** Strengthen your programming logic by solving practical exercises with the while loop and mastering condition-based repetition.
 </br>
-[Watch Part 16](https://www.aparat.com/dashboard/videostat/k754154).
+[Watch Part 16](https://www.aparat.com/v/k754154).
 
 **Part 17:** Get introduced to tuples in Python, an immutable and efficient data structure for storing ordered collections of items.
 </br>
