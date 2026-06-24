@@ -1,12 +1,12 @@
 # 🐍 Python Fundamentals: The Complete Path
-Welcome to the **Python Fundamentals** repository. This course was prepared in 2022 by **Mohammad Rahimi**, a PhD candidate at the University of Isfahan, Iran, taking you from a complete beginner to an intermediate level. This course is highly recommended for all students and learners interested in starting their journey with Python.
+<p align="justify"> 
+Welcome to the **Python Fundamentals** repository. This course was prepared in 2022 by **Mohammad Rahimi**, a PhD candidate at the University of Isfahan, Iran, taking you from a complete beginner to an intermediate level. This course is highly recommended for all students and learners interested in starting their journey with Python. 
+</p>
 
----
 ## 📚 Curriculum
 ## Phase 1: The Basics
 
-### 📚 Curriculum
-
+<p align="justify">
 **Part 1:** In this section, we cover the basics of Python and guide you through installing the necessary tools to start coding comfortably.  
 [Watch Part 1](https://www.aparat.com/v/yxx41c5)
 
@@ -21,9 +21,4 @@ Welcome to the **Python Fundamentals** repository. This course was prepared in 2
 
 **Part 5:** This section introduces mathematical operators and the built-in Math module for performing various numerical calculations.  
 [Watch Part 5: #]
-
-
-## 🚀 How to Use
-Replace the `#` inside the square brackets `[Link Part X: #]` with your actual file path or URL (e.g., `[Link Part 1: part1.md](part1.md)`).
-
-*Happy Coding!*
+</p>
