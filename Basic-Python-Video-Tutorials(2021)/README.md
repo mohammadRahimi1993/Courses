@@ -6,14 +6,23 @@ Welcome to the **Python Fundamentals** repository. This course was prepared in 2
 ## 📚 Curriculum
 ## Phase 1: The Basics
  
-**Part 1:** In this section, we cover the basics of Python and guide you through installing the necessary tools to start coding comfortably. 
+<p align="justify">
+<b>Part 1:</b> This section introduces Python and guides you through setting up the essential tools needed to start coding with confidence.
+</p>
 [Watch Part 1](https://www.aparat.com/v/yxx41c5)
 
-**Part 2:** This part focuses on the practical steps of installation and setting up your workspace to ensure everything is ready for development. 
+<p align="justify">
+<b>Part 2:</b> A practical guide to configuring your development environment, ensuring a smooth and ready-to-use workspace for your projects.
+</p>
 [Watch Part 2](https://www.aparat.com/v/upe6ehj)
 
-**Part 3:** Learn the essentials of how to store information using variables and how to interact with users through input and output. 
+<p align="justify">
+<b>Part 3:</b> Master the essentials of storing data with variables, and learn how to manage user input and program output effectively.
+</p>
 [Watch Part 3](https://www.aparat.com/v/ootw22x)
 
-**Part 4:** Here we explore different data types and the critical role of indentation in Python's syntax and structure. [Watch Part 4]
-(https://www.aparat.com/v/mks0v17)
+<p align="justify">
+<b>Part 4:</b> We explore Python's core data types and discuss why indentation is vital for writing clean, structured, and error-free code.
+</p>
+[Watch Part 4](https://www.aparat.com/v/mks0v17)
+
