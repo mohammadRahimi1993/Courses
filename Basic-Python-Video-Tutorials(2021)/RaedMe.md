@@ -1,6 +1,7 @@
+---
+# 🐍 Python Fundamentals: The Complete Path
+Welcome to the **Python Fundamentals** repository. This course was prepared in 2022 by **Mohammad Rahimi**, a PhD candidate at the University of Isfahan, Iran, taking you from a complete beginner to an intermediate level. This course is highly recommended for all students and learners interested in starting their journey with Python.
 
-## 🐍 Python Fundamentals: The Complete Path
-Welcome to the **Python Fundamentals** repository. This course takes you through 5 structured parts, guiding you from a complete beginner to an intermediate level.
 
 ---
 ## 📚 Curriculum
@@ -20,8 +21,6 @@ Welcome to the **Python Fundamentals** repository. This course takes you through
 
 - [Part 5: String Manipulation]
 - [Link Part 5: #]
-
----
 
 ## 🚀 How to Use
 Replace the `#` inside the square brackets `[Link Part X: #]` with your actual file path or URL (e.g., `[Link Part 1: part1.md](part1.md)`).
