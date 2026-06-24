@@ -1,4 +1,3 @@
----
 # 🐍 Python Fundamentals: The Complete Path
 Welcome to the **Python Fundamentals** repository. This course was prepared in 2022 by **Mohammad Rahimi**, a PhD candidate at the University of Isfahan, Iran, taking you from a complete beginner to an intermediate level. This course is highly recommended for all students and learners interested in starting their journey with Python.
 
