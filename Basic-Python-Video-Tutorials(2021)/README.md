@@ -5,7 +5,7 @@ Welcome to the **Python Fundamentals** repository. This course was prepared in 2
 
 ## 📚 Curriculum
 ## Phase 1: The Basics
- 
+
 <p align="justify">
 <b>Part 1:</b> This section introduces Python and guides you through setting up the essential tools needed to start coding with confidence.
 </p>
