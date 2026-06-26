@@ -20,7 +20,8 @@ Welcome to the Python Fundamentals repository. This course was prepared in 2022 
 </br>
 ([Watch Part 4](https://www.aparat.com/v/mks0v17))
 
-<div align="justify"> **Part 5:** In this video, the concept of casting in Python programming is explained in a clear and comprehensive way. You will learn how to convert data types from one form to another, and the practical importance of this concept in writing more accurate and flexible programs will also be explored.</div>
+**Part 5:** In this video, the concept of casting in Python programming is explained in a clear and comprehensive way. You will learn how to convert data types from one form to another, and the practical importance of this concept in writing more accurate and flexible programs will also be explored.</div>
+</br>
 ([Watch Part 5](https://www.aparat.com/v/qlehoth))
 
 **Part 11:** Discover how to manipulate and modify lists efficiently, including techniques for adding, removing, and sorting elements within your data collections.
