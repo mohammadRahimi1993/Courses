@@ -32,4 +32,4 @@ Building upon the previous session, we continue exploring the Hazm library to pe
 [Watch Part 7](https://www.aparat.com/v/n352q7h)
 
 ---
-*Prepared by Mohammad Rahimi - PhD Candidate, University of Isfahan (2022)*
+*Prepared by Mohammad Rahimi - PhD Candidate, University of Isfahan (2022), IRAN*
