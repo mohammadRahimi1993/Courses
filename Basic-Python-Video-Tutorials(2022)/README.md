@@ -52,3 +52,5 @@ Welcome to the Python Fundamentals repository. This course was prepared in 2022 
 </br>
 ([Watch Part 17](https://www.aparat.com/v/j35423q)).
 
+---
+*Prepared by Mohammad Rahimi - PhD Candidate, University of Isfahan (2022), IRAN*
