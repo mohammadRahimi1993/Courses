@@ -6,7 +6,7 @@
 * 🏫 **Affiliations:** 
     * [University of Isfahan](https://ui.ac.ir) | Department of Software Engineering
     * [Iran University of Science and Technology (IUST)](https://www.iust.ac.ir) | Noor Campus
-    * [Shahrekord Payame Noor University] | (https://shahrekord.chb.pnu.ac.ir/)
+    * (https://shahrekord.chb.pnu.ac.ir/) | Shahrekord Payame Noor University
 * 🔬 **Research Focus:**
     * 🔗 **Inductive Link Prediction (ILP)**
     * 🧠 **Deep Learning** (Specializing in *Restricted Boltzmann Machines*)
