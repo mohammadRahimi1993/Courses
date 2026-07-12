@@ -1,8 +1,16 @@
 # Academic Thesis Archive | Mohammad Rahimi
 
-* ** Candidate: Mohammad Rahimi ** *  
-* ** Institution: University of Isfahan, Department of Software Engineering And Iran University of Science and Technology (IUST), Noor Campus ** *
-* ** Focus: Inductive Link Prediction (ILP), Deep Learning (via Restricted Boltzmann Machines) ** *
+# 👋 About Me
+
+* 🎓 **Candidate:** Mohammad Rahimi
+* 🏫 **Affiliations:** 
+    * [University of Isfahan](https://ui.ac.ir) | Department of Software Engineering
+    * [Iran University of Science and Technology (IUST)](https://www.iust.ac.ir) | Noor Campus
+* 🔬 **Research Focus:**
+    * 🔗 **Inductive Link Prediction (ILP)**
+    * 🧠 **Deep Learning** (Specializing in *Restricted Boltzmann Machines*)
+* 🌐 **Website:** [programmingschool.ir](https://programmingschool.ir/)
+
 ---
 
 ## Overview
