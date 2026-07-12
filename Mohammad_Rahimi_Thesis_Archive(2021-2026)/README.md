@@ -1,8 +1,8 @@
 # Academic Thesis Archive | Mohammad Rahimi
 
-**Candidate:** Mohammad Rahimi  
-**Institution:** University of Isfahan, Department of Software Engineering ** And ** Iran University of Science and Technology (IUST), Noor Campus ** 
-**Focus:** Inductive Link Prediction (ILP), Deep Learning (via Restricted Boltzmann Machines)
+Candidate: Mohammad Rahimi  
+Institution: University of Isfahan, Department of Software Engineering And Iran University of Science and Technology (IUST), Noor Campus
+Focus: Inductive Link Prediction (ILP), Deep Learning (via Restricted Boltzmann Machines)
 ---
 
 ## Overview
@@ -11,7 +11,7 @@ This archive contains the documentation and video presentations for my academic 
 ## Contents
 
 ### 1. PhD Dissertation
-* **Proposal Title:** [Inductive link prediction based on constructing neighbors for unseen nodes]
+* **Proposal Title:** Inductive link prediction based on constructing neighbors for unseen nodes
 * **Video File/Link:** [https://www.aparat.com/v/yaw516n] 
 * **Paper-1:** PersianILP: Construction and Evaluation of a Standard Persian Dataset for Inductive Link Prediction
 * **Video File/Link:** `https://www.aparat.com/v/npjg3k9`
