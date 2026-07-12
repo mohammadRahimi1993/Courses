@@ -26,7 +26,7 @@ This archive contains the documentation and video presentations for my academic 
 * **Paper-2(2026):** ILP-SAGE: A Sampling-Based Framework for Scalable Inductive Link Prediction
 
 ### 2. Master's Thesis
-* **Title:** Hyperparameter Tuning of Deep Belief Networks using a Metaheuristic Approach
+* **Title(2021):** Hyperparameter Tuning of Deep Belief Networks using a Metaheuristic Approach
 * **Video File/Link:** [https://www.aparat.com/v/jhgq1ym]
 
 ---
