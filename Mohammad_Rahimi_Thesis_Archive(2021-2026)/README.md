@@ -1,6 +1,6 @@
 # Academic Thesis Archive | Mohammad Rahimi
 
-# 👋 About Me
+### 👋 About Me
 
 * 🎓 **Candidate:** Mohammad Rahimi
 * 🏫 **Affiliations:** 
