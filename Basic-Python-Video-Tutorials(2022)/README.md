@@ -24,6 +24,11 @@ Welcome to the Python Fundamentals repository. This course was prepared in 2022 
 </br>
 ([Watch Part 5](https://www.aparat.com/v/qlehoth))
 
+**Part 6:** In this video, strings in Python are introduced, along with the concept of slicing a string and how to perform it in Python.
+</br>
+([Watch Part 5](https://www.aparat.com/v/xnr63ol))
+
+
 **Part 11:** Discover how to manipulate and modify lists efficiently, including techniques for adding, removing, and sorting elements within your data collections.
 </br>
 ([Watch Part 11](https://www.aparat.com/v/V9LEI))
