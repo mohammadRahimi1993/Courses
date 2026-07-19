@@ -4,9 +4,7 @@ Welcome to the Python Fundamentals repository. This course was prepared in 2022 
 </p>
 
 ## 📚 Phase 1: The Basics
-**Part 1:** This section introduces Python and guides you through setting up the essential tools needed to start coding with confidence. 
-</br>
-([Watch Part 1](https://www.aparat.com/v/yxx41c5))
+**Part 1:** This section introduces Python and guides you through setting up the essential tools needed to start coding with confidence. ([Watch Part 1](https://www.aparat.com/v/yxx41c5))
 
 **Part 2:** A practical guide to configuring your development environment, ensuring a smooth and ready-to-use workspace for your projects. 
 </br>
